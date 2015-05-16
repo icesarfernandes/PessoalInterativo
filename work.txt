@@ -1,0 +1,41 @@
+icfernandes.com
+=========
+
+Italo Cesar Fernandes
+Frontend / NodeJS Developer
+JavaEE e PHP Developer
+
+Contact
+-------
+
+* STRML on irc.freenode.net
+* sam at bitmex dot com
+* samuel.trace.reed at gmail dot com
+
+Projects
+--------
+
+* www.BitMEX.com
+* www.Securesha.re
+* www.Tixelated.com
+* www.BrightestYoungThings.com
+
+Open Source
+-----------
+
+* OpenBazaar
+* JSXHint
+* btchip-signing-tools
+* react-grid-layout
+* react-localstorage
+* react-router-component
+* react-resizable
+* textFit
+* backbone.queryRouter
+* backbone.layoutManager
+* mongoose-filter-denormalize
+
+Collaboration
+-------------
+
+Email me if you want to work together.

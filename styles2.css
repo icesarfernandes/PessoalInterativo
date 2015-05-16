@@ -1,0 +1,36 @@
+
+/**
+ * The text could use some tweaks.
+ */
+
+#work-text .md {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#work-text .md h1,h2,h3,h4,h5,h6 {
+  display: inline-block;
+  color: #ddd;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+#work-text .md li {
+  margin: 5px 0;
+}
+
+#work-text .md h1,h2,h3,h4,h5,h6,ul,p {
+  margin: 0px;
+}
+
+/**
+ * That's better.
+ *
+ * If you want to contact me, use the PGP keys on the left.
+ *
+ * You know, if you're into that sort of thing.
+ */
+
+#pgp-text {
+  font-size: 12px;
+  color: #ada;
+}
